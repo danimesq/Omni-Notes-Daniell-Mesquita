@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="settings_fab_expansion_behavior" value="true" />
+    <boolean name="settings_attachments_on_bottom" value="false" />
+    <string name="settings_checked_items_behavior">0</string>
+    <string name="widget_24"> WHERE archived IS NOT 1 AND trashed IS NOT 1 </string>
+    <boolean name="settings_swipe_to_trash" value="false" />
+    <boolean name="pref_tour_complete" value="true" />
+    <boolean name="settings_password_access" value="false" />
+    <string name="sorting_column">title</string>
+    <boolean name="acra.enable" value="true" />
+    <boolean name="settings_enable_swipe" value="true" />
+    <boolean name="acra.legacyAlreadyConvertedTo4.8.0" value="true" />
+    <string name="settings_text_size">default</string>
+    <boolean name="settings_auto_location" value="false" />
+    <boolean name="settings_simple_calendar" value="false" />
+    <boolean name="expanded_view" value="true" />
+    <boolean name="settings_instant_search" value="false" />
+    <boolean name="settings_prettified_dates" value="true" />
+    <string name="navigation">Notes</string>
+    <boolean name="settings_notification_vibration" value="true" />
+    <string name="settings_colors_app">strip</string>
+    <int name="acra.lastVersionNr" value="247" />
+    <string name="settings_notification_snooze_delay">10</string>
+    <boolean name="settings_send_analytics" value="true" />
+    <string name="settings_language">en_US</string>
+</map>
