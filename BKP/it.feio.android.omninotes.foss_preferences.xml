@@ -24,7 +24,7 @@
     <boolean name="acra.enable" value="true" />
     <boolean name="settings_auto_location" value="false" />
     <boolean name="settings_instant_search" value="false" />
-    <string name="navigation">1550279827425</string>
+    <string name="navigation">Notes</string>
     <string name="settings_colors_app">strip</string>
     <int name="acra.lastVersionNr" value="247" />
     <string name="settings_language">en_US</string>
