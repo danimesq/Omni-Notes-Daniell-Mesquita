@@ -6,22 +6,22 @@
     <boolean name="settings_password_access" value="false" />
     <boolean name="settings_enable_swipe" value="true" />
     <boolean name="settings_show_uncategorized" value="true" />
-    <boolean name="acra.legacyAlreadyConvertedTo4.8.0" value="true" />
     <boolean name="settings_show_category_count" value="true" />
+    <boolean name="acra.legacyAlreadyConvertedTo4.8.0" value="true" />
     <string name="settings_text_size">default</string>
     <boolean name="settings_simple_calendar" value="false" />
-    <boolean name="expanded_view" value="true" />
     <int name="settings_current_app_version" value="247" />
+    <boolean name="expanded_view" value="true" />
     <boolean name="settings_prettified_dates" value="true" />
     <boolean name="settings_notification_vibration" value="true" />
-    <boolean name="settings_send_analytics" value="true" />
     <string name="settings_notification_snooze_delay">10</string>
+    <boolean name="settings_send_analytics" value="true" />
     <boolean name="settings_fab_expansion_behavior" value="true" />
     <string name="settings_checked_items_behavior">0</string>
     <boolean name="settings_swipe_to_trash" value="false" />
     <boolean name="pref_tour_complete" value="true" />
-    <boolean name="acra.enable" value="true" />
     <string name="sorting_column">title</string>
+    <boolean name="acra.enable" value="true" />
     <boolean name="settings_auto_location" value="false" />
     <boolean name="settings_instant_search" value="false" />
     <string name="navigation">Notes</string>
