@@ -8,8 +8,10 @@
     <boolean name="settings_show_uncategorized" value="true" />
     <boolean name="acra.legacyAlreadyConvertedTo4.8.0" value="true" />
     <boolean name="settings_show_category_count" value="true" />
+    <string name="widget_85"> WHERE archived IS NOT 1 AND trashed IS NOT 1 </string>
     <string name="settings_text_size">default</string>
     <boolean name="settings_simple_calendar" value="false" />
+    <string name="widget_87"> WHERE archived IS NOT 1 AND trashed IS NOT 1 </string>
     <boolean name="expanded_view" value="true" />
     <int name="settings_current_app_version" value="247" />
     <boolean name="settings_prettified_dates" value="true" />
