@@ -21,7 +21,7 @@
     <string name="settings_language">en_US</string>
     <boolean name="settings_simple_calendar" value="false" />
     <boolean name="settings_password_access" value="false" />
-    <string name="settings_colors_app">complete</string>
+    <string name="settings_colors_app">strip</string>
     <boolean name="pref_tour_complete" value="true" />
     <boolean name="settings_attachments_on_bottom" value="false" />
     <boolean name="settings_auto_location" value="false" />
