@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="navigation">1602639194525</string>
+    <boolean name="acra.legacyAlreadyConvertedTo4.8.0" value="true" />
+    <boolean name="settings_password_access" value="false" />
+    <boolean name="acra.legacyAlreadyConvertedToJson" value="true" />
+    <boolean name="pref_tour_complete" value="true" />
+    <int name="acra.lastVersionNr" value="291" />
+</map>
