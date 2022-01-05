@@ -5,5 +5,5 @@
     <boolean name="settings_password_access" value="false" />
     <boolean name="acra.legacyAlreadyConvertedToJson" value="true" />
     <boolean name="pref_tour_complete" value="true" />
-    <int name="acra.lastVersionNr" value="291" />
+    <int name="acra.lastVersionNr" value="292" />
 </map>
