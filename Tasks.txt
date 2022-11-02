@@ -1,0 +1,13 @@
+compare and remove .nostalgit
+
+remote: Resolving deltas: 100% (1406/1406), completed with 3 local objects.
+remote: This repository moved. Please use the new location:
+remote:   https://github.com/danimesq/Omni-Notes-Daniell-Mesquita.git
+remote: 
+remote: Create a pull request for 'main' on GitHub by visiting:
+remote:      https://github.com/danimesq/Omni-Notes-Daniell-Mesquita/pull/new/main
+remote: 
+To https://github.com/DaniellMesquita/Omni-Notes-Daniell-Mesquita.git
+ * [new branch]      main -> main
+ 
+ get old Files and merge
