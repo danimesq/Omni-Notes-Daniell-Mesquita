@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-    <string name="navigation">1602639194525</string>
+    <string name="navigation">1550444205500</string>
     <boolean name="acra.legacyAlreadyConvertedTo4.8.0" value="true" />
     <boolean name="settings_password_access" value="false" />
+    <string name="backup_folder">content://com.android.externalstorage.documents/tree/9C33-6BBD%3APC%2F%26%2F20-11-2022%2Fomnisv</string>
     <boolean name="acra.legacyAlreadyConvertedToJson" value="true" />
     <boolean name="pref_tour_complete" value="true" />
+    <string name="sorting_column">creation</string>
     <int name="acra.lastVersionNr" value="292" />
 </map>
